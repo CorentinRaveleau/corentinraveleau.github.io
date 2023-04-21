@@ -104,10 +104,6 @@ plugins:
 #google-site-verification: ""
 
 author:
-  name   : "Corentin Raveleau"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student in bio-CFD."
-  location: "Montpellier, France"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -116,6 +112,36 @@ author:
       icon: "fab fa-fw fa-email-square"
       url: "corentin.raveleau@umontpellier.fr"
 
+author:
+  name: "Corentin Raveleau"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "PhD student in bio-CFD."
+  location: "Montpellier, France"
+  email            : "corentin.raveleau@umontpellier.fr"
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : 
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        : 
+  lastfm           :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            : 
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : 
 
 footer:
   links:
@@ -123,7 +149,7 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://corentinraveleau.github.io"
     - label: "Email"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-email"
       url: "corentin.raveleau@umontpellier.fr"
 
 defaults:
