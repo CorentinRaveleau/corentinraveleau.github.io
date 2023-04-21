@@ -27,6 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "Contrast"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -35,6 +36,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -57,35 +59,31 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+#A remplir avec : https://support.google.com/webmasters/answer/9008080?hl=fr
+#google-site-verification: ""
+
 author:
-  name   : "First Lastname"
+  name   : "Corentin Raveleau"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student in bio-CFD."
+  location: "Montpellier, France"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://corentinraveleau.github.io"
+    - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "corentin.raveleau@umontpellier.fr"
+
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://corentinraveleau.github.io"
+    - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "corentin.raveleau@umontpellier.fr"
 
 defaults:
   # _posts
