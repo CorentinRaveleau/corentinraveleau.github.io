@@ -36,7 +36,32 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _teachings
+  - _CV
 
+collections:
+  CV:
+    output: true
+    permalink: /:collection/:path/
+  teachings:
+    output: true
+    permalink: /:collection/:path/
+
+
+defaults:
+  - scope:
+      path: ""
+      type: teachings
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -72,7 +97,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://corentinraveleau.github.io"
     - label: "Email"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-email-square"
       url: "corentin.raveleau@umontpellier.fr"
 
 
