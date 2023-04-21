@@ -64,6 +64,20 @@ defaults:
       toc_icon: "swatchbook"
       sidebar: main
       classes: wide
+defaults:
+  - scope:
+      path: ""
+      type: resume
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      output: true
+      toc: true
+      toc_label: "Contents"
+      toc_icon: "swatchbook"
+      sidebar: main
+      classes: wide
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
