@@ -64,7 +64,7 @@ defaults:
       toc_icon: "swatchbook"
       sidebar: main
       classes: wide
-defaults:
+
   - scope:
       path: ""
       type: resume
