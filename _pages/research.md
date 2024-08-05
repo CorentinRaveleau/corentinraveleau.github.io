@@ -7,7 +7,7 @@ layout: collection
 
 phd:
     - image_path: /_data/Expe_to_num.png
-      image_caption: Establish a numerical model from experimental observations to understand the interaction between blood platelets and structured artificial surfaces.
+      excerpt: Establish a numerical model from experimental observations to understand the interaction between blood platelets and structured artificial surfaces.
 ---
 
 ## Numerical simulation of blood platelets adhesion on structured artificial surfaces
