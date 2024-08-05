@@ -17,3 +17,18 @@ My Ph.D research project aims at developing a numerical model of blood platelets
 </div>
 
  <img src="/_data/Expe_to_num.png" alt="Experimental data to numerical model">
+
+## Publications
+
+- *On the platelets dynamics over micro-structured
+plates*, Raveleau C., Mendez S. and Nicoud F., ERCOFTAC Bulletin, 2024. (To be published)
+
+## Talks
+
+- *Thrombogenicity reduction by means of surface structure - a combined in vitro and in silico
+study*, Biomechanics team seminar, IMAG. July 2022
+- *Platelets transport and adhesion models*, Ph.D students seminar, IMAG. February 2023
+- *Numerical simulation of platelets adhesion on structured surfaces*, KIM Blood science PhD Day,
+University of Montpellier. July 2023
+- *Platelet adhesion on structured surfaces model using the Force Coupling Method*, Biomechanics
+team seminar, IMAG. June 2024
