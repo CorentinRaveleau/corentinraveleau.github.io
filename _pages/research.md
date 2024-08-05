@@ -16,7 +16,7 @@ As cardiovascular diseases are the first cause of death worldwide, providing eff
 My Ph.D research project aims at developing a numerical model of blood platelets dynamics and adhesion on structured artificial surfaces to study the interaction between the platelets adhesion mechanisms and the structuration of the surface. This research seeks to enhance the understanding of experimental observations and improve the hemocompatibility of blood-contacting medical devices.
 </div>
 
- <img src="/_data/Expe_to_num.png" alt="Experimental data to numerical model">
+ <img src="/_data/Expe_to_num_citation.png" alt="Experimental data to numerical model">
 
 ## Publications
 
