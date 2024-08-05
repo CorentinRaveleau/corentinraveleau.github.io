@@ -6,8 +6,7 @@ author_profile: true
 
 ## PDF version (last update August 2024)
 
-- <a href="{{site.url}}>/_data/CV-Raveleau-en.pdf">English version</a>
-
+[English version]({{ site.url }}/_data/CV-Raveleau-en.pdf)
 
 ## Key Events
 - 2022-2025: PhD in Computational Fluid Dynamics applied to the simulation of blood platelets adhesion on structured surfaces, under the supervision of Franck Nicoud and Simon Mendez at Institut Montpelliérain Alexander Grothendieck (IMAG), University of Montpellier, France.
