@@ -1,6 +1,6 @@
 ---
-title: "Reasearch"
-permalink: /reasearch/
+title: "Research"
+permalink: /research/
 collection: research
 layout: collection
 #author_profile: true
