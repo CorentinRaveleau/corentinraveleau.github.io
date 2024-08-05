@@ -4,10 +4,9 @@ permalink: /resume/
 author_profile: true
 ---
 
-## PDF version (last update XXXX)
+## PDF version (last update August 2024)
 
-- <a href="{{site.url}}>/data/CV-Raveleau-fr.pdf">French version</a>
-- <a href="{{site.url}}>/data/CV-Raveleau-en.pdf">English version</a>
+- <a href="{{site.url}}>/_data/CV-Raveleau-en.pdf">English version</a>
 
 
 ## Key Events
