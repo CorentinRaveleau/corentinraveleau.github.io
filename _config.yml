@@ -62,6 +62,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 #A remplir avec : https://support.google.com/webmasters/answer/9008080?hl=fr
 google-site-verification : "aBzIRJ5vDzdVtM2CJ37GdbxwYJmXPUJL_aTYAWzaHCI"
