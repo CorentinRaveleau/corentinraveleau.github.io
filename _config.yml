@@ -64,7 +64,7 @@ plugins:
   - jekyll-include-cache
 
 #A remplir avec : https://support.google.com/webmasters/answer/9008080?hl=fr
-#google-site-verification: ""
+google-site-verification : "aBzIRJ5vDzdVtM2CJ37GdbxwYJmXPUJL_aTYAWzaHCI"
 
 author:
   links:
