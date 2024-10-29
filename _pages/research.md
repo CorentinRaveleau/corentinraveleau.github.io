@@ -36,6 +36,6 @@ My Ph.D. research focuses on developing a numerical model to simulate blood plat
 
 ## Workshops
 
-- *CNRS Thematic School : Quantitative and qualitative approach in biomechanics and mechanobiology for healthcare*, GDR Mécabio Santé, Grenoble, France, June 2024.
+- *CNRS Thematic School : Quantitative and qualitative approaches in biomechanics and mechanobiology for healthcare*, GDR Mécabio Santé, Grenoble, France, June 2024.
 - [*7th Extreme CFD Workshop and Hackaton*](https://ecfd.coria-cfd.fr/index.php/Ecfd:ecfd_7th_edition), Blood platelets adhesion model (PI), Caen, France, January 2024.
 - [*6th Extreme CFD Workshop and Hackaton*](https://ecfd.coria-cfd.fr/index.php/Ecfd:ecfd_6th_edition), Force coupling method for particulate flow (PI), Caen, France, January 2023.
