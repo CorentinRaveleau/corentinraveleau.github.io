@@ -20,8 +20,8 @@ My Ph.D. research focuses on developing a numerical model to simulate blood plat
 
 ## Distinctions
 
-- *A patent application is currently pending on the results of this thesis
-- *Award of the best presentation at the European Society for Artificial Organs 2025 congress (ESAO 2025)
+- A patent application is currently pending on the results of this thesis
+- Award of the best presentation at the European Society for Artificial Organs 2025 congress (ESAO 2025)
 
 ## Publications
 

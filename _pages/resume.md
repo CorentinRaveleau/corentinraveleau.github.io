@@ -4,7 +4,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-## PDF version (last update October 2025)
+## PDF (last update October 2025)
 
 [French version](/_data/CV-Raveleau-fr.pdf)
 
