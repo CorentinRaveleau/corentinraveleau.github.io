@@ -18,12 +18,19 @@ My Ph.D. research focuses on developing a numerical model to simulate blood plat
 
  <img src="/_data/Expe_to_num_citation.png" alt="Experimental data to numerical model">
 
+## Distinctions
+
+- *A patent application is currently pending on the results of this thesis
+- *Award of the best presentation at the European Society for Artificial Organs 2025 congress (ESAO 2025)
+
 ## Publications
 
 - *On the platelets dynamics over micro-structured plates*, Raveleau C., Mendez S. and Nicoud F., ERCOFTAC Bulletin, Vol. 140, Pages 13-19, September 2024.
 
 ## Talks
 
+- *Impact of microstructured artificial surfaces on the dynamics of blood platelets*, European Society for Artificial Organs 2025 Congress (ESAO 2025), Enschede, Netherlands, June 2025.
+- *Numerical simulation of platelets adhesion on structured artificial surfaces*, International Conference on Multiphase Flows 2025 (ICMF 2025), Toulouse, France, May 2025.
 - *Numerical simulation of platelets adhesion on structured artificial surfaces*, GDR Mécabio Santé annual meeting, Metz, France, December 2024.
 - *Numerical simulation of platelets adhesion on structured artificial surfaces*, Flash poster presentation, 50th ESAO Congress, Aachen, Germany, September 2024.
 - *Platelet adhesion on structured surfaces model using the Force Coupling Method*, Biomechanics team seminar, IMAG, Montpellier, France, June 2024.
