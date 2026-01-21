@@ -7,6 +7,7 @@ author_profile: true
 ## PDF (last update October 2025)
 
 [French version](../_data/CV_Corentin_Raveleau.pdf)
+
 [English version](../_data/CV_Corentin_Raveleau-En.pdf)
 
 ## Main experience and degree
