@@ -4,7 +4,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-## PDF (last update October 2025)
+## PDF (last update January 2026)
 
 [French version](../_data/CV_Corentin_Raveleau.pdf)
 
