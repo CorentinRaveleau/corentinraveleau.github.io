@@ -20,12 +20,13 @@ My Ph.D. research focuses on developing a numerical model to simulate blood plat
 
 ## Distinctions
 
-- A patent application is currently pending on the results of this thesis
+- A patent regarding the results of this thesis have been filled
 - Award of the best presentation at the European Society for Artificial Organs 2025 congress (ESAO 2025)
 
 ## Publications
 
-- *On the platelets dynamics over micro-structured plates*, Raveleau C., Mendez S. and Nicoud F., ERCOFTAC Bulletin, Vol. 140, Pages 13-19, September 2024.
+- [*Numerical simulation of blood platelets adhesion on structured artificial surfaces*, Raveleau C., PhD thesis, Université de Montpellier, 2025.](https://hal.science/tel-05454834v1)
+- [*On the platelets dynamics over micro-structured plates*, Raveleau C., Mendez S. and Nicoud F., ERCOFTAC Bulletin, Vol. 140, Pages 13-19, September 2024.](https://www.ercoftac.org/publications/ercoftac_bulletin/bulletin-140/)
 
 ## Talks
 

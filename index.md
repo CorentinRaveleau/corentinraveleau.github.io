@@ -7,11 +7,11 @@ author_profile: true
 ## General
 
 <div style="text-align: justify">
-I am a PhD candidate specializing in Computational Fluid Dynamics at the University of Montpellier, focusing on simulating blood platelet adhesion on structured artificial surfaces. My research is aimed at advancing understanding in cardiovascular engineering, combining intricate simulations with real-world applications.
+I recently became a PhD in mathematics and modeling, specializing in Computational Fluid Dynamics, at the University of Montpellier, focusing on simulating blood platelet adhesion on structured artificial surfaces. My research is aimed at advancing understanding in cardiovascular engineering, combining intricate simulations with real-world applications.
 </div>
 
 <div style="text-align: justify">
-I am under the supervision of <a href="https://imag.umontpellier.fr/~nicoud/">Franck Nicoud</a> and <a href="https://imag.umontpellier.fr/~mendez/">Simon Mendez</a> at Institut Montpelliérain Alexander Grothendiek (IMAG - University of Montpellier) and I work in collaboration with Marlene Schadow, Johanna C. Clauser and Michael Neidlin at the Cardio Vascular Engineering (CVE) laboratory in Aachen, Germany.
+My PhD was conducted under the supervision of <a href="https://imag.umontpellier.fr/~nicoud/">Franck Nicoud</a> and <a href="https://imag.umontpellier.fr/~mendez/">Simon Mendez</a> at Institut Montpelliérain Alexander Grothendiek (IMAG - University of Montpellier) and I worked in collaboration with Marlene Schadow, Johanna C. Clauser and Michael Neidlin at the Cardio Vascular Engineering (CVE) laboratory in Aachen, Germany.
 </div>
 
 <div style="text-align: justify">

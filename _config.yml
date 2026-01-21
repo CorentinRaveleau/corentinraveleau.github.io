@@ -16,7 +16,7 @@
 title: Corentin Raveleau
 email: corentin.raveleau@umontpellier.fr
 description: # this means to ignore newlines until "baseurl:"
-  Welcome to my personnal website where you can find my contact information, Resume and other professional information.
+  Welcome to my personnal website where you can find my contact information, resume and other professional information.
 baseurl: ""
 url: "https://corentinraveleau.github.io"
 twitter_username: username
@@ -79,9 +79,9 @@ author:
 author:
   name: "Corentin Raveleau"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student in CFD applied to hemodynamics."
+  bio    : "PhD in mathematics and modelling, CFD applied to hemodynamics."
   location: "Montpellier, France"
-  email            : "corentin.raveleau@umontpellier.fr"
+  email            : "corentin.raveleau@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/corentin-raveleau/"
+  linkedin         : "corentin-raveleau"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -115,7 +115,7 @@ footer:
       url: "https://corentinraveleau.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "corentin.raveleau@umontpellier.fr"
+      url: "corentin.raveleau@gmail.com"
 
 defaults:
   # _pages
