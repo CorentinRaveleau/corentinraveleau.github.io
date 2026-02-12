@@ -6,9 +6,8 @@ author_profile: true
 
 ## PDF (last update January 2026)
 
-[French version](../_data/CV_Corentin_Raveleau.pdf)
+[French version](../_data/Raveleau_CV.pdf)
 
-[English version](../_data/CV_Corentin_Raveleau_En.pdf)
 
 ## Main experience and degree
 - 2022-2025: PhD in Computational Fluid Dynamics applied to the simulation of blood platelets adhesion on structured surfaces, under the supervision of Franck Nicoud and Simon Mendez at Institut Montpelliérain Alexander Grothendieck (IMAG), University of Montpellier, France.
